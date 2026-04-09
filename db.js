@@ -4,7 +4,7 @@ const conexao = mysql.createConnection({
   host: "localhost",
   user: "root",
   password: "",
-  database: "escola_react_node"
+  database: "atividade"
 });
 
 
