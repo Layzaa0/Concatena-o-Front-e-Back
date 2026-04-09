@@ -1,6 +1,6 @@
-CREATE DATABASE escola_react_node;
+CREATE DATABASE atividade;
 
-USE escola_react_node;
+USE atividade;
 
 CREATE TABLE alunos (
     id INT AUTO_INCREMENT PRIMARY KEY,
